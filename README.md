@@ -1,4 +1,8 @@
 ![Header](./github-banner.png)
+
+My tech stack:
+https://img.shields.io/badge/:badgeContent?style=flat&logo=Python&label=Python&labelColor=%23ffffff&color=%233c7caf
+
 <!--
 **Joey-TS/Joey-TS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
