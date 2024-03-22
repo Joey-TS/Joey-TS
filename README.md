@@ -12,3 +12,7 @@ My tech stack:<br>
 ![Static Badge](https://img.shields.io/badge/VS%20Code-white?style=flat&logo=visualstudiocode&logoColor=white&color=%23007ACC)
 
 I am currently pursuing B. Tech in Computer Science (3rd year). Avid coder, passionate learner and a guy that loves fun.
+
+
+Socials:<br>
+![Static Badge](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=White&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoseph-t-shyju-a453341ba%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) LinkedIn
