@@ -15,4 +15,7 @@ I am currently pursuing B. Tech in Computer Science (3rd year). Avid coder, pass
 
 
 Socials:<br>
-![Static Badge](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=White&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoseph-t-shyju-a453341ba%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) LinkedIn
+<a href="https://www.linkedin.com/in/joseph-t-shyju-a453341ba">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&labelColor=%230A66C2">
+</a> 
+LinkedIn
