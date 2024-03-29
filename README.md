@@ -11,6 +11,8 @@ My tech stack:<br>
 ![Static Badge](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=white&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-white?style=flat&logo=visualstudiocode&logoColor=white&color=%23007ACC)
 ![Static Badge](https://img.shields.io/badge/firebase-white?logo=firebase&logoColor=white&labelColor=%23FFCA28&color=%23FFCA28)
+![Static Badge](https://img.shields.io/badge/PHP-white?logo=php&logoColor=white&color=%23777BB4)
+
 
 
 I am currently pursuing B. Tech in Computer Science (3rd year). Avid coder, passionate learner and a guy that loves fun.
