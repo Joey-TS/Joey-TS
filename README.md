@@ -14,8 +14,7 @@ My tech stack:<br>
 ![Static Badge](https://img.shields.io/badge/PHP-white?logo=php&logoColor=white&color=%23777BB4)
 
 
-
-I am currently pursuing B. Tech in Computer Science (3rd year). Avid coder, passionate learner and a guy that loves fun.
+I am currently pursuing M. Tech in Computer Science (1st year) from NIT, Calicut. Avid coder, passionate learner and a guy that loves fun.
 
 
 Socials:<br>
